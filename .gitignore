@@ -8,3 +8,4 @@ alembic_notes.claude/
 .env
 config.json
 secret.key
+.env
